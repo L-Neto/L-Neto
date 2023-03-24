@@ -8,7 +8,7 @@ Bem-vindo(a) ao meu perfil. :D
 
 <div>
     
-     ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+     ![Snake animation](https://github.com/L-Neto/L-Neto/blob/output/github-contribution-grid-snake.svg)
 
 </div>
  
